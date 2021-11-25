@@ -1,6 +1,4 @@
-# RDMA
-RDMA Processing code
-
+RDMA Processor:
 
 nimbus must be run first to produce a netCDF file and corresponding '.cnts.rdma'
 text file.  Run rdmap which all ask for the name of the '.cnts.rdma' file.
