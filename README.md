@@ -1,6 +1,7 @@
-# RDMA
+# RDMA - Radial Differential Mobility Analyzer
 RDMA Processing code
 
+This instrument is retired.
 
 nimbus must be run first to produce a netCDF file and corresponding '.cnts.rdma'
 text file.  Run rdmap which all ask for the name of the '.cnts.rdma' file.
